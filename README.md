@@ -7,9 +7,9 @@ https://maps.googleapis.com/maps/api/distancematrix/json?origins=23.752234084372
 
 
 Url parssing:
-https://maps.googleapis.com/maps/api/distancematrix/json
-?origins=23.75223408437255,90.37963235475122
-&destinations=23.758761375530757,90.37364904989002
+https://maps.googleapis.com/maps/api/distancematrix/json<br>
+?origins=23.75223408437255,90.37963235475122<br>
+&destinations=23.758761375530757,90.37364904989002<br>
 &mode=walking
 
 
